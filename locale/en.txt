@@ -1,0 +1,88 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Nail Salon
+
+### Title
+tour.name = Posh Nail Lounge Weston
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = ABOUT
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = GALLERY
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = GALLERY
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = CALL NOW
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = CALL NOW
+
+### Multiline Text
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000009vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.6700000000000035vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">POSH NAIL LOUNGE WESTON</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000032vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.299999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Posh Nail Lounge WEston</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.99vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5948963317384368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Zapfino';">WELCOME TO POSH NAIL LOUNGE WESTON</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.944444444444445vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.94vmin;font-family:'Zapfino';"><B>WELCOME TO POSH NAIL LOUNGE</B></SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Posh Nail Lounge Weston
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Posh Nail Lounge Weston
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = 2214-2218 Weston Rd, Weston, FL 33326
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = 2214-2218 Weston Rd, Weston, FL 33326
+Label_5FFE61ED_459D_2B44_41A6_C9E5AD37408C.text = POLICY
+Label_679EF44E_479B_6947_41C1_FEB5CC49ABD0.text = SERVICES
+
+## Media
+
+### Title
+album_630D2B3E_402D_39D8_41C2_713D20859D94.label = Photo Album Prochure
+album_630D2B3E_402D_39D8_41C2_713D20859D94_0.label = Prochure
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888.label = Photo Album Nails
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_0.label = IMG_2510
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_1.label = IMG_2511
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_10.label = IMG_2520
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_11.label = IMG_2521
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_12.label = IMG_2522
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_13.label = IMG_2523
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_14.label = IMG_2524
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_15.label = IMG_2525
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_16.label = IMG_2526
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_17.label = IMG_2527
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_18.label = IMG_2528
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_19.label = IMG_2529
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_2.label = IMG_2512
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_3.label = IMG_2513
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_4.label = IMG_2514
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_5.label = IMG_2515
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_6.label = IMG_2516
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_7.label = IMG_2517
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_8.label = IMG_2518
+album_6B34CFA4_4012_D8E8_41C5_E3BCE649D888_9.label = IMG_2519
+panorama_4BD9F8D2_402D_38A8_41C6_AFC08410D5FD.label = Entrance
+panorama_4BDB5D1A_402D_39D8_41C9_C79A11606F60.label = Service Area 2
+panorama_4BDB6CDC_402D_5858_41CF_BC2E281A74D9.label = Store Front
+panorama_4BDB9CAE_402D_D8F8_41C1_19890BA7495F.label = Patio
+panorama_4BDB9E53_402D_DBA8_41C4_653A89F7643B.label = Service Area 1
+panorama_4D2C05C1_402D_68A8_41C6_ECADF7792BB4.label = Dry Station
+panorama_56CAFEA0_40F7_38E8_41AA_254751E29BB0.label = Reception
+photo_40C66445_5067_7883_41A3_C82E3C42D332.label = time-management
+photo_434DB381_507F_7F83_41CB_05F01B38C0B0.label = phone-call
+
+## Popup
+
+### Body
+htmlText_4227E756_506B_7881_41A0_149AE1E78428.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff3300;"><B>ONLINE BOOKING AVAILABLE</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_424FBD0B_507F_0887_41D3_EB9CE0ABF3A7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;"><B>CALL NOW</B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Action
+
+### URL
+LinkBehaviour_38134547_2333_9DDD_41AF_AA0D1A601A25.source = https://www.facebook.com/poshnailloungeweston/
+LinkBehaviour_3A665172_2332_95B7_41C1_503365161EC7.source = https://www.instagram.com/poshnailloungeweston/?hl=en
+LinkBehaviour_5F0D0306_4012_E9A8_41B9_DBD23D8B3EFA.source = https://www.instagram.com/poshnailloungeweston/?hl=en
+LinkBehaviour_61400B24_4015_59E8_41B7_69DCE7072AA6.source = https://www.yelp.com/biz/posh-nail-lounge-weston-fort-lauderdale?osq=posh+nails
+LinkBehaviour_61A8E6C8_4015_28B8_41C5_F928DCD69BB4.source = https://www.facebook.com/poshnailloungeweston/
+PopupWebFrameBehaviour_6D004CA4_4073_78E8_41B5_1A7A44A6AD41.url = https://www.schedulicity.com
